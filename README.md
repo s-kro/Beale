@@ -11,4 +11,4 @@ From Wikipedia ...
 
 ________________________________________
 
-Anyways, the results from this repo are all three cyphers applied against the Declaration of Independence (DoC). The corrections needed to make the second cipher solve exactly are also taken from the Wikipedia article. These are also appled to the first and third ciphers. The first is obviously also from the DoC because of the many resultant non-random alphabetical sequences, the third is non-consequnetail. 
+Anyways, the results from this repo are all three cyphers applied against the Declaration of Independence (DoI). The corrections needed to make the second cipher solve exactly are also taken from the Wikipedia article. These are also appled to the first and third ciphers. The first is obviously also from the DoI because of the many resultant non-random alphabetical sequences, the third is non-consequential. 
